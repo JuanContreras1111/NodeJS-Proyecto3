@@ -1,0 +1,5 @@
+instalacion
+1. crear una base de datos en postgres llamada products
+2. instalar "npm install"
+3. despues instalar "npm install --save pg pg-hstore # Postgres"
+4  npm run dev   npm run tes
